@@ -1,4 +1,4 @@
-[![MasterHead](https://erphaber.com.tr/wp-content/uploads/2019/02/programminglanguages-600.png)
+[![MasterHead](https://uzaktanegitim.com/images/blog/yazilimcilarin-bilmesi-gerekenler.jpg)
 
 <h1 align="center">Hi 👋, I'm Kaan Ince</h1>
 <h3 align="center">I am a computer engineering student in Türkiye.</h3>
